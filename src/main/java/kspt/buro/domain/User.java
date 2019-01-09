@@ -1,4 +1,4 @@
-package letscode.sarafan.domain;
+package kspt.buro.domain;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonView;

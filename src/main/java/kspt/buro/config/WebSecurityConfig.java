@@ -1,7 +1,7 @@
-package letscode.sarafan.config;
+package kspt.buro.config;
 
-import letscode.sarafan.domain.User;
-import letscode.sarafan.repo.UserDetailsRepo;
+import kspt.buro.domain.User;
+import kspt.buro.repo.UserDetailsRepo;
 import org.springframework.boot.autoconfigure.security.oauth2.client.EnableOAuth2Sso;
 import org.springframework.boot.autoconfigure.security.oauth2.resource.PrincipalExtractor;
 import org.springframework.context.annotation.Bean;

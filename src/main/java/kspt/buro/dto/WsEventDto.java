@@ -1,7 +1,7 @@
-package letscode.sarafan.dto;
+package kspt.buro.dto;
 
 import com.fasterxml.jackson.annotation.JsonView;
-import letscode.sarafan.domain.Views;
+import kspt.buro.domain.Views;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import org.codehaus.jackson.annotate.JsonRawValue;

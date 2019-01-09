@@ -1,4 +1,4 @@
-package letscode.sarafan.dto;
+package kspt.buro.dto;
 
 public enum ObjectType {
     MESSAGE

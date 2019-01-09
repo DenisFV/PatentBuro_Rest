@@ -1,4 +1,4 @@
-package letscode.sarafan.config;
+package kspt.buro.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.messaging.simp.config.MessageBrokerRegistry;

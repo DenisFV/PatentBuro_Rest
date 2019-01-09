@@ -1,12 +1,12 @@
-package letscode.sarafan.util;
+package kspt.buro.util;
 
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.ObjectWriter;
-import letscode.sarafan.dto.EventType;
-import letscode.sarafan.dto.ObjectType;
-import letscode.sarafan.dto.WsEventDto;
+import kspt.buro.dto.EventType;
+import kspt.buro.dto.ObjectType;
+import kspt.buro.dto.WsEventDto;
 import org.springframework.messaging.simp.SimpMessagingTemplate;
 import org.springframework.stereotype.Component;
 

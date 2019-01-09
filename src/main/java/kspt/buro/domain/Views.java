@@ -1,4 +1,4 @@
-package letscode.sarafan.domain;
+package kspt.buro.domain;
 
 public final class Views {
     public interface Id {}

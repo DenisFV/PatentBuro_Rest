@@ -1,8 +1,8 @@
-package letscode.sarafan.controller;
+package kspt.buro.controller;
 
-import letscode.sarafan.domain.Request;
-import letscode.sarafan.domain.User;
-import letscode.sarafan.repo.RequestRepo;
+import kspt.buro.domain.Request;
+import kspt.buro.domain.User;
+import kspt.buro.repo.RequestRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;

@@ -1,12 +1,12 @@
-package letscode.sarafan;
+package kspt.buro;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SarafanApplication {
+public class BuroApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SarafanApplication.class, args);
+		SpringApplication.run(BuroApplication.class, args);
 	}
 }

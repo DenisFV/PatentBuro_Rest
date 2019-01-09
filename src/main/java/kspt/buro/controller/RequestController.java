@@ -1,13 +1,13 @@
-package letscode.sarafan.controller;
+package kspt.buro.controller;
 
 import com.fasterxml.jackson.annotation.JsonView;
-import letscode.sarafan.domain.Request;
-import letscode.sarafan.domain.User;
-import letscode.sarafan.domain.Views;
-import letscode.sarafan.dto.EventType;
-import letscode.sarafan.dto.ObjectType;
-import letscode.sarafan.repo.RequestRepo;
-import letscode.sarafan.util.WsSender;
+import kspt.buro.domain.Request;
+import kspt.buro.domain.User;
+import kspt.buro.domain.Views;
+import kspt.buro.dto.EventType;
+import kspt.buro.dto.ObjectType;
+import kspt.buro.repo.RequestRepo;
+import kspt.buro.util.WsSender;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
